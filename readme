@@ -1,0 +1,11 @@
+STEP ACTIVATE LARAVEL
+
+Open CMD and type
+>composer
+>cd C:\XAMPP/htdocs/
+>cd resume
+>php artisan serve
+
+access through https://localhost:8000
+
+The files were saved in folder like this : XAMPP/htdocs/resume
