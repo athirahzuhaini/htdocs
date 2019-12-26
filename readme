@@ -1,11 +1,23 @@
-STEP ACTIVATE LARAVEL
+Install XAMPP and Composer
 
 Open CMD and type
->composer
->cd C:\XAMPP/htdocs/
->cd resume
->php artisan serve
+composer
+cd C:\XAMPP/htdocs/
+composer create-project --prefer-dist laravel/laravel resume
+php artisan serve
 
-access through https://localhost:8000
+And then, copy and replace folder Public, Resources & Routes into C:\XAMPP/htdocs/resume 
 
-The files were saved in folder like this : XAMPP/htdocs/resume
+
+After that, open again CMD and type
+composer
+cd C:\XAMPP/htdocs/
+cd resume
+php artisan serve
+
+
+Now you can access it through https://localhost:8000
+
+Snapshot of my webpage https://drive.google.com/file/d/1yODoOj_Me-Ft7vY-iVIpMQoXIjDghda-/view?usp=sharing
+
+
