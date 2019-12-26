@@ -1,6 +1,6 @@
 Install XAMPP and Composer
 
-Open CMD and type
+Open Command Prompt (CMD) and type
 composer
 cd C:\XAMPP/htdocs/
 composer create-project --prefer-dist laravel/laravel resume
@@ -9,7 +9,7 @@ php artisan serve
 And then, copy and replace folder Public, Resources & Routes into C:\XAMPP/htdocs/resume 
 
 
-After that, open again CMD and type
+After that, open again Command Prompt (CMD) and type
 composer
 cd C:\XAMPP/htdocs/
 cd resume
@@ -24,5 +24,7 @@ Snapshot of my webpage
 2. https://drive.google.com/open?id=11PocZTbRYpEMgVzUpcEXAW04YYbiFf7C
 3. https://drive.google.com/open?id=1MKcHmbDEnAxiGfeth5SP-upzUx18gNpb
 4. https://drive.google.com/open?id=1SOw4tPKdqWDWkSOdD2I27ilhwfRFeHTZ
+
+Do not hesitate to reach me via mail for any inquiries
 
 
